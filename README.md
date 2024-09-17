@@ -1,10 +1,10 @@
 # Data-Analyst-Banmeet
 
-## Descriptive Analysis 
+# Descriptive Analysis 
 
-# **Project Description**: Descriptive Analysis of predicting the exact class the phones.
+## **Project Description**: Descriptive Analysis of predicting the exact class the phones.
 
-# **Project Title: Classifying the phones into different price ranges at the burgeoning mobile company.
+## Project Title: Classifying the phones into different price ranges at the burgeoning mobile company.
 
 **Objective:**
 The primary goal of this project is to conduct a descriptive analysis of different mobile phone prices in the competitive market for burgeoning mobile. Through this analysis, we aim to summarize key features that determine the price and category (High-3, Medium-2, Low-1) of the mobile phones, indicating how high the price is so that the company can identify trends and generate insights that can inform marketing strategies and inventory management.
