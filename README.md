@@ -8,6 +8,7 @@
 
 **Objective:**
 The primary goal of this project is to conduct a descriptive analysis of different mobile phone prices in the competitive market for burgeoning mobile. Through this analysis, we aim to summarize key features that determine the price and category (High-3, Medium-2, Low-1) of the mobile phones, indicating how high the price is so that the company can identify trends and generate insights that can inform marketing strategies and inventory management.
+![answer 1](https://github.com/user-attachments/assets/43a94b42-b086-4df0-94a1-c9694077d686)
 
 **Dataset:**
 
