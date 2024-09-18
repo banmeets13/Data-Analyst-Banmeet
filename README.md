@@ -1,6 +1,6 @@
-# Data-Analyst-Banmeet   📂📊🧑‍💻🔍
+📂📊🧑‍💻🔍
 
-# Project 1 -> Descriptive Analysis 
+## **Project 1 -> Descriptive Analysis**
 
 ## **Project Description**: Descriptive Analysis of predicting the exact class the phones.
 
@@ -10,7 +10,7 @@
 **Objective:**
 The primary goal of this project is to conduct a descriptive analysis of different mobile phone prices in the competitive market for burgeoning mobile. Through this analysis, we aim to summarize key features that determine the price and category (High-3, Medium-2, Low-1) of the mobile phones, indicating how high the price is so that the company can identify trends and generate insights that can inform marketing strategies and inventory management.
 
-**🛠 ** Tools & Technologies**
+🛠 ** Tools & Technologies**
 
     o	Programming Languages: Python, R, SQL, etc.
     o	Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Plotly, etc.
