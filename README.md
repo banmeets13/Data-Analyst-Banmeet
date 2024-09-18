@@ -1,6 +1,6 @@
 # Data-Analyst-Banmeet   📂📊🧑‍💻🔍
 
-# Project 1-> Descriptive Analysis 
+# Project 1 -> Descriptive Analysis 
 
 ## **Project Description**: Descriptive Analysis of predicting the exact class the phones.
 
